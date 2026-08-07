@@ -98,15 +98,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after uploading them.
-
-- Dashboard
-- Performance Charts
-- Subject Analysis
-- Summary Report
-
 ---
 
 ## 📈 Project Workflow
